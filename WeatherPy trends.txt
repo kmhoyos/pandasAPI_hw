@@ -8,4 +8,6 @@ data to plot.
 - There doesn't seem to be a correlation between humidity and latitude and cloudiness and latitude.  Being closer
 to the Equator doesn't effect wind or the amount of clouds.
 
-- 
+- It also appears that there is a slight trend toward higher wind speed and distance from the Equator.  While wind
+speeds of less than 15mph are common regardless of latitude, higher wind speeds, in excess of 25mph, seem to be more
+common at latitudes further south than -20 degrees and further north than +40.
